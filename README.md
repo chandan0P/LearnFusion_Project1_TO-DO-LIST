@@ -19,12 +19,12 @@ This is a simple to-do list web application created using HTML, CSS, and JavaScr
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone https://github.com/chandan0P/LearnFusion_Project1_TO-DO-LIST.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd todo-list
+    cd LearnFusion_Project1_TO-DO-LIST
     ```
 
 3. Open `index.html` in your web browser to view and use the application.
